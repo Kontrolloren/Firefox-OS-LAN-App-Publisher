@@ -5,7 +5,5 @@ The purpose of this program is to make it easier to debug B2G-applications. The 
 
 <b>Todo:</b>
 > Improve the structure of the update function in makefile.js, and enable it to have several apps on auto update
-> 
-Look for a way to uninstall apps (saw something about same source being able to do this earlier on)
-> 
-Make an app that allows you to add and update apps
+> Look for a way to uninstall apps (saw something about same source being able to do this earlier on)
+> Make an app that allows you to add and update apps
